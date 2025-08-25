@@ -6,8 +6,9 @@ body {
 body {
     zoom: 1;
     overflow: hidden;
-    background: #141e30;
-    background: -webkit-linear-gradient(to bottom, #243b55, #141e30);
+    background: #000000;
+    background: -webkit-linear-gradient(to bottom, #000000, #0a0a0a);
+    background: linear-gradient(to bottom, #000000, #0a0a0a);
     display: flex;
     align-items: center;
     justify-content: center;
